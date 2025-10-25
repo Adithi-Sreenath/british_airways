@@ -384,9 +384,9 @@ This repository includes:
 
 ## 📧 Contact
 
-**Author**: [Your Name]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [Your Email]
+**Author**: Adithi Sreenath
+**LinkedIn**: https://www.linkedin.com/in/adithi-sreenath/ 
+**Email**: aditisjadhav5@gmail.com
 
 ---
 
@@ -397,3 +397,4 @@ This project is for educational and portfolio purposes. All data and scenarios a
 ---
 
 ⭐ If you found this project interesting or useful, consider starring the repository!
+
